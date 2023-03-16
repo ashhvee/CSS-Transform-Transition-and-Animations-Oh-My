@@ -1,4 +1,4 @@
 main {
     background-color: #6cc26c;
-    transform: skew(10deg, -20deg);
+    transform: skewX(-10deg) rotate(-10deg);
 }
